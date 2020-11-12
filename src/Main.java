@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Last day of Github class to Recap everything we have done");
         System.out.println();
         System.out.println("hello");
+        System.out.println("hour 1");
+
     }
 }
